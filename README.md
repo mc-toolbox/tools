@@ -12,6 +12,9 @@
 ### Thesis
 | Nom | Url | Description |
 |--|--|--|
+| Equation Editor (Milay)  | https://www.latex4technics.com/ |  |
+| Equation Editor | https://latexeditor.lagrida.com/ |  |
+| Equation Editor | https://latex.codecogs.com/eqneditor/editor.php |  |
 
 
 ### Code Screenshot
